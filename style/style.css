@@ -26,7 +26,7 @@ main {
     background-color: #abcfe7; width: 20%; height: 500px; float: left; 
 }
 .article {
-    background-color: #abcfe7; width: calc(60% - 30px); height: 500px; float: left; margin: 0 15px;
+    background-color: #abcfe7; width: calc(60% - 60px); height: 500px; float: left; margin: 0 30px;
 }
 footer {
     background-color: #8701fe; max-width: 1200px; height: 50px;
